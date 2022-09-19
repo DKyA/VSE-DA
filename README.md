@@ -1,4 +1,4 @@
-## Pididokumentace
+## Pididokumentace
 - Každá větev = 1 předmět
 - Vždy to jsou zápisky z hodin / přednášek
 - Průběžně sem budu přidávat materiály
