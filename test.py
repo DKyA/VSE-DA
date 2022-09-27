@@ -1,7 +1,4 @@
 
-from time import sleep
-
-
 def bubble_sort(array):
 
     arr = array[:]
